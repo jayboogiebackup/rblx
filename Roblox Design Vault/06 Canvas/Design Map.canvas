@@ -1,0 +1,523 @@
+{
+  "nodes": [
+    {
+      "id": "home",
+      "type": "file",
+      "x": -260,
+      "y": -620,
+      "width": 520,
+      "height": 300,
+      "file": "00 Home.md",
+      "color": "6"
+    },
+    {
+      "id": "why",
+      "type": "file",
+      "x": -260,
+      "y": -260,
+      "width": 520,
+      "height": 220,
+      "file": "02 Design Pillars/Why Games Perform.md",
+      "color": "6"
+    },
+    {
+      "id": "g0",
+      "type": "group",
+      "x": -1500,
+      "y": 60,
+      "width": 700,
+      "height": 1270,
+      "label": "HUD archetype A \u2014 Steal / tycoon / collection simulators",
+      "color": "1"
+    },
+    {
+      "id": "game0_0",
+      "type": "file",
+      "x": -1470,
+      "y": 120,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Steal An Egg.md"
+    },
+    {
+      "id": "game0_1",
+      "type": "file",
+      "x": -1470,
+      "y": 350,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Throw Food For Animals.md"
+    },
+    {
+      "id": "game0_2",
+      "type": "file",
+      "x": -1470,
+      "y": 580,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Steal a Brainrot.md"
+    },
+    {
+      "id": "game0_3",
+      "type": "file",
+      "x": -1470,
+      "y": 810,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Pet Simulator 99.md"
+    },
+    {
+      "id": "game0_4",
+      "type": "file",
+      "x": -1470,
+      "y": 1040,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Fish It.md"
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "x": -740,
+      "y": 60,
+      "width": 700,
+      "height": 350,
+      "label": "HUD archetype B \u2014 Competitive FPS",
+      "color": "5"
+    },
+    {
+      "id": "game1_0",
+      "type": "file",
+      "x": -710,
+      "y": 120,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/RIVALS.md"
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "x": 20,
+      "y": 60,
+      "width": 700,
+      "height": 580,
+      "label": "HUD archetype C \u2014 Social / roleplay",
+      "color": "4"
+    },
+    {
+      "id": "game2_0",
+      "type": "file",
+      "x": 50,
+      "y": 120,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Brookhaven RP.md"
+    },
+    {
+      "id": "game2_1",
+      "type": "file",
+      "x": 50,
+      "y": 350,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Adopt Me.md"
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "x": 780,
+      "y": 60,
+      "width": 700,
+      "height": 1040,
+      "label": "HUD archetype D \u2014 Survival / horror / RPG",
+      "color": "2"
+    },
+    {
+      "id": "game3_0",
+      "type": "file",
+      "x": 810,
+      "y": 120,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/99 Nights in the Forest.md"
+    },
+    {
+      "id": "game3_1",
+      "type": "file",
+      "x": 810,
+      "y": 350,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Forsaken.md"
+    },
+    {
+      "id": "game3_2",
+      "type": "file",
+      "x": 810,
+      "y": 580,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Murder Mystery 2.md"
+    },
+    {
+      "id": "game3_3",
+      "type": "file",
+      "x": 810,
+      "y": 810,
+      "width": 640,
+      "height": 200,
+      "file": "01 Games/Blox Fruits.md"
+    },
+    {
+      "id": "pg",
+      "type": "group",
+      "x": 1660,
+      "y": 60,
+      "width": 1180,
+      "height": 1500,
+      "label": "Design pillars",
+      "color": "3"
+    },
+    {
+      "id": "p0",
+      "type": "file",
+      "x": 1690,
+      "y": 120,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/HUD Design.md"
+    },
+    {
+      "id": "p1",
+      "type": "file",
+      "x": 2260,
+      "y": 120,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/GUI & Menus.md"
+    },
+    {
+      "id": "p2",
+      "type": "file",
+      "x": 1690,
+      "y": 350,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Core Loops & Mechanics.md"
+    },
+    {
+      "id": "p3",
+      "type": "file",
+      "x": 2260,
+      "y": 350,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Intuitiveness & Onboarding.md"
+    },
+    {
+      "id": "p4",
+      "type": "file",
+      "x": 1690,
+      "y": 580,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Art Style.md"
+    },
+    {
+      "id": "p5",
+      "type": "file",
+      "x": 2260,
+      "y": 580,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Maps & World Building.md"
+    },
+    {
+      "id": "p6",
+      "type": "file",
+      "x": 1690,
+      "y": 810,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Models & Assets.md"
+    },
+    {
+      "id": "p7",
+      "type": "file",
+      "x": 2260,
+      "y": 810,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Pets & Collectibles.md"
+    },
+    {
+      "id": "p8",
+      "type": "file",
+      "x": 1690,
+      "y": 1040,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Animation & Game Feel.md"
+    },
+    {
+      "id": "p9",
+      "type": "file",
+      "x": 2260,
+      "y": 1040,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Fonts & Typography.md"
+    },
+    {
+      "id": "p10",
+      "type": "file",
+      "x": 1690,
+      "y": 1270,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Shops & Game Passes.md"
+    },
+    {
+      "id": "p11",
+      "type": "file",
+      "x": 2260,
+      "y": 1270,
+      "width": 540,
+      "height": 200,
+      "file": "02 Design Pillars/Thumbnails & Icons.md"
+    },
+    {
+      "id": "bg",
+      "type": "group",
+      "x": 2960,
+      "y": 60,
+      "width": 700,
+      "height": 1650,
+      "label": "Playbooks (build it)",
+      "color": "4"
+    },
+    {
+      "id": "b0",
+      "type": "file",
+      "x": 2990,
+      "y": 120,
+      "width": 640,
+      "height": 150,
+      "file": "03 Playbooks/Playbook - Build a Mobile-First HUD.md"
+    },
+    {
+      "id": "b1",
+      "type": "file",
+      "x": 2990,
+      "y": 290,
+      "width": 640,
+      "height": 150,
+      "file": "03 Playbooks/Playbook - Shop & Game Pass System.md"
+    },
+    {
+      "id": "b2",
+      "type": "file",
+      "x": 2990,
+      "y": 460,
+      "width": 640,
+      "height": 150,
+      "file": "03 Playbooks/Playbook - Egg Hatch & Pet System.md"
+    },
+    {
+      "id": "b3",
+      "type": "file",
+      "x": 2990,
+      "y": 630,
+      "width": 640,
+      "height": 150,
+      "file": "03 Playbooks/Playbook - Steal-a-X Base Loop.md"
+    },
+    {
+      "id": "b4",
+      "type": "file",
+      "x": 2990,
+      "y": 800,
+      "width": 640,
+      "height": 150,
+      "file": "03 Playbooks/Playbook - Throw Arc & Power Meter.md"
+    },
+    {
+      "id": "b5",
+      "type": "file",
+      "x": 2990,
+      "y": 970,
+      "width": 640,
+      "height": 150,
+      "file": "03 Playbooks/Playbook - Build a Map That Performs.md"
+    },
+    {
+      "id": "b6",
+      "type": "file",
+      "x": 2990,
+      "y": 1140,
+      "width": 640,
+      "height": 150,
+      "file": "03 Playbooks/Playbook - Juice & Animation Recipes.md"
+    },
+    {
+      "id": "b7",
+      "type": "file",
+      "x": 2990,
+      "y": 1310,
+      "width": 640,
+      "height": 150,
+      "file": "03 Playbooks/Playbook - Thumbnails & Store Page.md"
+    },
+    {
+      "id": "b8",
+      "type": "file",
+      "x": 2990,
+      "y": 1480,
+      "width": 640,
+      "height": 150,
+      "file": "03 Playbooks/Playbook - Launch & Live-Ops Checklist.md"
+    },
+    {
+      "id": "img1",
+      "type": "file",
+      "x": -260,
+      "y": -1200,
+      "width": 520,
+      "height": 330,
+      "file": "99 Assets/Mockups/gui-hud-archetypes.png"
+    },
+    {
+      "id": "note",
+      "type": "text",
+      "x": 360,
+      "y": -620,
+      "width": 520,
+      "height": 300,
+      "text": "## How to read this map\n\n- **Top**: start at Home \u2192 Why Games Perform.\n- **Left groups**: the 12 teardowns, grouped by HUD archetype.\n- **Right**: cross-game design pillars, then the playbooks that build each system.\n- Double-click any card to open the note.",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "fromNode": "home",
+      "fromSide": "bottom",
+      "toNode": "why",
+      "toSide": "top"
+    },
+    {
+      "id": "e1",
+      "fromNode": "why",
+      "fromSide": "bottom",
+      "toNode": "g0",
+      "toSide": "top"
+    },
+    {
+      "id": "e2",
+      "fromNode": "why",
+      "fromSide": "bottom",
+      "toNode": "g1",
+      "toSide": "top"
+    },
+    {
+      "id": "e3",
+      "fromNode": "why",
+      "fromSide": "bottom",
+      "toNode": "g2",
+      "toSide": "top"
+    },
+    {
+      "id": "e4",
+      "fromNode": "why",
+      "fromSide": "bottom",
+      "toNode": "g3",
+      "toSide": "top"
+    },
+    {
+      "id": "e5",
+      "fromNode": "why",
+      "fromSide": "right",
+      "toNode": "pg",
+      "toSide": "top"
+    },
+    {
+      "id": "e6",
+      "fromNode": "pg",
+      "fromSide": "right",
+      "toNode": "bg",
+      "toSide": "left",
+      "label": "build"
+    },
+    {
+      "id": "e7",
+      "fromNode": "p0",
+      "fromSide": "right",
+      "toNode": "b0",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e8",
+      "fromNode": "p10",
+      "fromSide": "right",
+      "toNode": "b1",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e9",
+      "fromNode": "p7",
+      "fromSide": "right",
+      "toNode": "b2",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e10",
+      "fromNode": "p2",
+      "fromSide": "right",
+      "toNode": "b3",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e11",
+      "fromNode": "p2",
+      "fromSide": "right",
+      "toNode": "b4",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e12",
+      "fromNode": "p5",
+      "fromSide": "right",
+      "toNode": "b5",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e13",
+      "fromNode": "p8",
+      "fromSide": "right",
+      "toNode": "b6",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e14",
+      "fromNode": "p11",
+      "fromSide": "right",
+      "toNode": "b7",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e15",
+      "fromNode": "img1",
+      "fromSide": "bottom",
+      "toNode": "home",
+      "toSide": "top"
+    }
+  ]
+}

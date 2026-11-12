@@ -1,0 +1,23 @@
+/* Roblox Design Vault — small readability helpers */
+
+/* Gallery callout: images in a responsive grid */
+.callout[data-callout="gallery"] {
+  --callout-color: 255, 210, 63;
+  --callout-icon: lucide-images;
+}
+.callout[data-callout="gallery"] .callout-content p {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 8px;
+}
+.callout[data-callout="gallery"] .callout-content .internal-embed { margin: 0; }
+.callout[data-callout="gallery"] .callout-content img { width: 100%; border-radius: 8px; }
+
+/* Softer image corners in reading view */
+.markdown-rendered .image-embed img { border-radius: 10px; }
+
+/* Icons inside tables sit on the text line */
+.markdown-rendered table .image-embed img { vertical-align: middle; border-radius: 12px; }
+
+/* Code blocks: a bit more room for Luau */
+.markdown-rendered pre { font-size: 0.86em; }

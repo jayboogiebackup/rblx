@@ -1,0 +1,55 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"0\" -path:\"04 Templates\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "colorGroups": [
+    {
+      "query": "path:\"01 Games\"",
+      "color": {
+        "a": 1,
+        "rgb": 16731501
+      }
+    },
+    {
+      "query": "path:\"02 Design Pillars\"",
+      "color": {
+        "a": 1,
+        "rgb": 5088255
+      }
+    },
+    {
+      "query": "path:\"03 Playbooks\"",
+      "color": {
+        "a": 1,
+        "rgb": 4054148
+      }
+    },
+    {
+      "query": "path:\"05 Reference\"",
+      "color": {
+        "a": 1,
+        "rgb": 16765503
+      }
+    },
+    {
+      "query": "file:\"00 Home\"",
+      "color": {
+        "a": 1,
+        "rgb": 11693055
+      }
+    }
+  ],
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 220,
+  "scale": 1,
+  "close": true
+}
