@@ -7,6 +7,11 @@ tags: [pillar, art, assets]
 > [!summary]
 > The top games ship **lots of content fast** by building **systems that multiply a few assets**: one body template × colours × accessories × effects. Detail goes into *hero* assets (the rare pet, the legendary egg, the weapon in first person); filler stays simple.
 
+> [!tip] Deep dive
+> The full models section — official close-ups, budgets, and step-by-step model creation with importable examples — lives in the **[[Models Hub]]**.
+
+![[ref-models-creatures.jpg]]
+
 ## Asset multiplication patterns
 
 | Pattern | Example | Multiplier |
@@ -39,4 +44,6 @@ tags: [pillar, art, assets]
 5. **Make every collectible animate**: idle bob, blink, happy jump on pickup — even voxel animals.
 6. **Check triangle and texture budgets on a low-end phone** with 20+ units on screen (pens and swarms are the worst case).
 
-Related: [[Pets & Collectibles]] · [[Art Style]] · [[Animation & Game Feel]]
+![[diagram-model-budgets.png]]
+
+Related: [[Models Hub]] · [[Model Budgets & Specs]] · [[Playbook - Model Creation Pipeline]] · [[Pets & Collectibles]] · [[Art Style]] · [[Animation & Game Feel]]

@@ -3,7 +3,7 @@
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "propertiesInDocument": "visible",
   "readableLineLength": true,
   "defaultViewMode": "preview"

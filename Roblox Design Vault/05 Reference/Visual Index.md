@@ -93,6 +93,44 @@ Every picture in the vault, grouped. Click any image to open it full size.
 
 ![[chart-pass-prices-by-game.png]]
 
+## 3D model renders (original models)
+
+![[model-base-parts.jpg]]
+
+![[model-cube-pet-anatomy.jpg]]
+
+![[model-cube-pet-variants.jpg]]
+
+![[model-eggs.jpg]]
+
+![[model-env-kit.jpg]]
+
+![[model-rarity-shell.jpg]]
+
+![[model-rigs.jpg]]
+
+![[model-silhouette-test.jpg]]
+
+![[model-toy-blaster.jpg]]
+
+![[model-voxel-dino-sheet.jpg]]
+
+![[model-voxel-meshing.jpg]]
+
+## Model reference sheets (official crops)
+
+![[ref-models-creatures.jpg]]
+
+![[ref-models-pets-items.jpg]]
+
+![[ref-models-weapons-buildings.jpg]]
+
+## Model diagrams
+
+![[diagram-model-budgets.png]]
+
+![[diagram-model-pipeline.jpg]]
+
 ## Official store images by game
 
 ### [[Steal An Egg]]

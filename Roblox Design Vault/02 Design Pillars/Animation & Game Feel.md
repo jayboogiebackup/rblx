@@ -44,6 +44,6 @@ tags: [pillar, animation, juice]
 5. **Respect performance**: pool popups and particles; cap simultaneous effects on phones.
 6. **Reduced-motion option** for screen shake and flashes (✅ Forsaken even warns about flashing lights in its description).
 
-Recipes with code: [[Playbook - Juice & Animation Recipes]]
+Recipes with code: [[Playbook - Juice & Animation Recipes]] · rigs & clips: [[Playbook - Rigging & Animating Models]]
 
 Related: [[GUI & Menus]] · [[Pets & Collectibles]]

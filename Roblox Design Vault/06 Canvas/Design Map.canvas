@@ -378,6 +378,115 @@
       "file": "03 Playbooks/Playbook - Launch & Live-Ops Checklist.md"
     },
     {
+      "id": "mg",
+      "type": "group",
+      "x": 1660,
+      "y": 1640,
+      "width": 1180,
+      "height": 1500,
+      "label": "Models & model creation",
+      "color": "5"
+    },
+    {
+      "id": "m0",
+      "type": "file",
+      "x": 1690,
+      "y": 1700,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Models Hub.md"
+    },
+    {
+      "id": "m1",
+      "type": "file",
+      "x": 2260,
+      "y": 1700,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Model Styles in Top Games.md"
+    },
+    {
+      "id": "m2",
+      "type": "file",
+      "x": 1690,
+      "y": 1930,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Model Budgets & Specs.md"
+    },
+    {
+      "id": "m3",
+      "type": "file",
+      "x": 2260,
+      "y": 1930,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Playbook - Model Creation Pipeline.md"
+    },
+    {
+      "id": "m4",
+      "type": "file",
+      "x": 1690,
+      "y": 2160,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Playbook - Voxel Creatures.md"
+    },
+    {
+      "id": "m5",
+      "type": "file",
+      "x": 2260,
+      "y": 2160,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Playbook - Cube Pets & Variants.md"
+    },
+    {
+      "id": "m6",
+      "type": "file",
+      "x": 1690,
+      "y": 2390,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Playbook - Eggs & Loot Containers.md"
+    },
+    {
+      "id": "m7",
+      "type": "file",
+      "x": 2260,
+      "y": 2390,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Playbook - Rigging & Animating Models.md"
+    },
+    {
+      "id": "m8",
+      "type": "file",
+      "x": 1690,
+      "y": 2620,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Playbook - Weapons & Tools.md"
+    },
+    {
+      "id": "m9",
+      "type": "file",
+      "x": 2260,
+      "y": 2620,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Playbook - Bases & Props from Parts.md"
+    },
+    {
+      "id": "m10",
+      "type": "file",
+      "x": 1690,
+      "y": 2850,
+      "width": 540,
+      "height": 200,
+      "file": "07 Models/Starter Model Kit.md"
+    },
+    {
       "id": "img1",
       "type": "file",
       "x": -260,
@@ -514,6 +623,15 @@
     },
     {
       "id": "e15",
+      "fromNode": "p6",
+      "fromSide": "bottom",
+      "toNode": "m0",
+      "toSide": "top",
+      "label": "deep dive",
+      "color": "5"
+    },
+    {
+      "id": "e16",
       "fromNode": "img1",
       "fromSide": "bottom",
       "toNode": "home",

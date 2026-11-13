@@ -40,6 +40,6 @@ tags: [pillar, pets, collection]
 7. **Seasonal variants** (Halloween, Candy) are the cheapest content drop you can make.
 8. **Protect the economy**: if pets are tradable, never sell them directly for Robux at scale — sell *odds* and *time* (✅ PS99's passes are luck/automation, not pets).
 
-Build steps: [[Playbook - Egg Hatch & Pet System]]
+Build steps: [[Playbook - Egg Hatch & Pet System]] · models: [[Playbook - Cube Pets & Variants]] · [[Playbook - Voxel Creatures]] · [[Playbook - Eggs & Loot Containers]]
 
 Related: [[Models & Assets]] · [[Animation & Game Feel]] · [[Shops & Game Passes]]
