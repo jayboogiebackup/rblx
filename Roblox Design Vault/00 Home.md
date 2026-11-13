@@ -14,7 +14,7 @@ snapshot_date: 2026-11-12
 
 1. **Start with [[Why Games Perform]]** — the six drivers shared by every top game.
 2. **Pick the closest game** below and read its teardown (each follows the same 13 sections).
-3. **Go deep on a pillar** (HUD, shop, art…) for cross-game rules and proven examples — or the **[[Models Hub]]** for models and model creation.
+3. **Go deep on a pillar** (HUD, shop, art…) for cross-game rules and proven examples — or the **[[Models Hub]]** for models and the **[[Textures Hub]]** for textures and the stud texture.
 4. **Build it** with the playbooks; plan with the templates (set *Settings → Templates → folder* to `04 Templates` — already configured).
 5. Open **[[Design Map.canvas|the canvas]]** for a visual map of how everything connects.
 
@@ -85,6 +85,19 @@ snapshot_date: 2026-11-12
 | [[Playbook - Rigging & Animating Models]] · [[Playbook - Weapons & Tools]] · [[Playbook - Bases & Props from Parts]] | Rigs, weapons, buildings & props |
 | [[Starter Model Kit]] | 5 importable OBJ example models |
 
+## 🎨 Textures & the stud texture (new)
+
+![[tex-studs-methods.jpg]]
+
+| Page | You'll learn |
+|---|---|
+| [[Textures Hub]] | Overview, 12 texture rules, all texture images |
+| [[Texture Styles in Top Games]] | Official close-ups: studs, checkerboards, arena tiles, wood, realistic PBR |
+| [[Texture Objects & Specs]] | Decal vs Texture vs MaterialVariant vs SurfaceAppearance vs TextureID; sizes & formats |
+| [[Playbook - Stud Texture]] | Four ways to get the classic stud look, with code |
+| [[Playbook - Making Tileable Textures]] · [[Playbook - Custom Materials with MaterialService]] | Make seamless PBR sets and turn them into materials |
+| [[Texture Kit]] | 7 original tileable textures (studs, inlets, checker grass/dirt, planks, bricks, tiles) |
+
 ## 📚 Reference & data
 
 - [[Live Chart Snapshot 2026-11-12]] — top 30 playing / trending / up-and-coming
@@ -95,7 +108,7 @@ snapshot_date: 2026-11-12
 
 ## 🧩 Templates
 
-[[Template - Game Teardown]] · [[Template - HUD Spec]] · [[Template - Game Pass Spec]] · [[Template - Live Event Plan]] · [[Template - Model Spec]]
+[[Template - Game Teardown]] · [[Template - HUD Spec]] · [[Template - Game Pass Spec]] · [[Template - Live Event Plan]] · [[Template - Model Spec]] · [[Template - Texture Spec]]
 
 ## 🔑 Ten key findings
 

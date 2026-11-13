@@ -55,6 +55,8 @@ Choose one approach per game:
 
 ![[model-voxel-dino-sheet.jpg]]
 
+More on texture objects, tiling and PBR sets: [[Textures Hub]] · [[Texture Objects & Specs]].
+
 ## Step 5 — Rig + animate (skip for static models)
 
 See [[Playbook - Rigging & Animating Models]]. Keep bones few; name them clearly (`Root`, `Body`, `Head`, `Tail1`…).

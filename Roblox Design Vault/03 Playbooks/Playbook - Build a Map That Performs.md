@@ -29,6 +29,7 @@ tags: [playbook, map, performance]
 ## Step 3 — Dress it (style rules)
 
 - One dominant hue per zone (see [[Color Palettes]]); one accent for loot (gold or purple).
+- Surface language from the [[Texture Kit]]: checker grass per zone, studs on plates and bricks ([[Playbook - Custom Materials with MaterialService]]).
 - Hero props near spawns/goals; cheap filler toward edges; fog/atmosphere hides the edge of the world.
 - Signposts and landmarks every ~100 studs in hubs.
 

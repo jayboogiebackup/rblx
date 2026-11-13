@@ -40,6 +40,6 @@ tags: [pillar, map, level-design]
 7. **Budget for phones** — enable `Workspace.StreamingEnabled`, reuse meshes (instances of one MeshPart share memory), prefer textures over geometry for small detail, avoid thousands of unanchored parts. Test on a low-end phone, not your PC.
 8. **Ship new zones as updates** — a zone drop is the cheapest 'big update' (📰 TFFA shipped a new map ~7 weeks after launch).
 
-Step-by-step: [[Playbook - Build a Map That Performs]]
+Step-by-step: [[Playbook - Build a Map That Performs]] · surfaces: [[Textures Hub]] · [[Playbook - Stud Texture]]
 
 Related: [[Art Style]] · [[Models & Assets]] · [[Core Loops & Mechanics]]

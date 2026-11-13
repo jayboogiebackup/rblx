@@ -125,11 +125,27 @@ Every picture in the vault, grouped. Click any image to open it full size.
 
 ![[ref-models-weapons-buildings.jpg]]
 
+![[ref-textures.jpg]]
+
 ## Model diagrams
 
 ![[diagram-model-budgets.png]]
 
 ![[diagram-model-pipeline.jpg]]
+
+## Texture renders & boards
+
+![[tex-classic-scene.jpg]]
+
+![[tex-kit-sheet.jpg]]
+
+![[tex-materials-gallery.jpg]]
+
+![[tex-objects-diagram.jpg]]
+
+![[tex-studs-methods.jpg]]
+
+![[tex-tiling.jpg]]
 
 ## Official store images by game
 

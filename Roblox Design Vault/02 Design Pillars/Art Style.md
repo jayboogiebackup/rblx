@@ -48,4 +48,4 @@ tags: [pillar, art]
 | Horror | Wood/Grass/Slate PBR, dark | Fog/Atmosphere density high, one PointLight source, ColorCorrection desaturate |
 | Realism | PBR materials (concrete, brick, glass) | Future lighting, neutral sky, realistic scale |
 
-Related: [[Model Styles in Top Games]] · [[Models & Assets]] · [[Maps & World Building]] · [[Thumbnails & Icons]] · [[Color Palettes]]
+Related: [[Texture Styles in Top Games]] · [[Model Styles in Top Games]] · [[Models & Assets]] · [[Maps & World Building]] · [[Thumbnails & Icons]] · [[Color Palettes]]

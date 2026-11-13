@@ -52,4 +52,6 @@ tags: [models, moc]
 14. **Reuse meshes** — identical MeshId + texture lets the engine batch many copies cheaply.
 15. **Test with 20+ copies on a real phone** — pens and swarms are the worst case.
 
+Textures for your models: [[Textures Hub]] · [[Texture Kit]]
+
 Related pillars: [[Models & Assets]] · [[Pets & Collectibles]] · [[Art Style]] · [[Animation & Game Feel]]

@@ -487,6 +487,79 @@
       "file": "07 Models/Starter Model Kit.md"
     },
     {
+      "id": "tg",
+      "type": "group",
+      "x": 2960,
+      "y": 1640,
+      "width": 1180,
+      "height": 1040,
+      "label": "Textures & the stud texture",
+      "color": "2"
+    },
+    {
+      "id": "t0",
+      "type": "file",
+      "x": 2990,
+      "y": 1700,
+      "width": 540,
+      "height": 200,
+      "file": "08 Textures/Textures Hub.md"
+    },
+    {
+      "id": "t1",
+      "type": "file",
+      "x": 3560,
+      "y": 1700,
+      "width": 540,
+      "height": 200,
+      "file": "08 Textures/Texture Styles in Top Games.md"
+    },
+    {
+      "id": "t2",
+      "type": "file",
+      "x": 2990,
+      "y": 1930,
+      "width": 540,
+      "height": 200,
+      "file": "08 Textures/Texture Objects & Specs.md"
+    },
+    {
+      "id": "t3",
+      "type": "file",
+      "x": 3560,
+      "y": 1930,
+      "width": 540,
+      "height": 200,
+      "file": "08 Textures/Playbook - Stud Texture.md"
+    },
+    {
+      "id": "t4",
+      "type": "file",
+      "x": 2990,
+      "y": 2160,
+      "width": 540,
+      "height": 200,
+      "file": "08 Textures/Playbook - Making Tileable Textures.md"
+    },
+    {
+      "id": "t5",
+      "type": "file",
+      "x": 3560,
+      "y": 2160,
+      "width": 540,
+      "height": 200,
+      "file": "08 Textures/Playbook - Custom Materials with MaterialService.md"
+    },
+    {
+      "id": "t6",
+      "type": "file",
+      "x": 2990,
+      "y": 2390,
+      "width": 540,
+      "height": 200,
+      "file": "08 Textures/Texture Kit.md"
+    },
+    {
       "id": "img1",
       "type": "file",
       "x": -260,
@@ -632,6 +705,24 @@
     },
     {
       "id": "e16",
+      "fromNode": "m0",
+      "fromSide": "right",
+      "toNode": "t0",
+      "toSide": "left",
+      "label": "textures",
+      "color": "2"
+    },
+    {
+      "id": "e17",
+      "fromNode": "p4",
+      "fromSide": "right",
+      "toNode": "t1",
+      "toSide": "top",
+      "label": "surfaces",
+      "color": "2"
+    },
+    {
+      "id": "e18",
       "fromNode": "img1",
       "fromSide": "bottom",
       "toNode": "home",
